@@ -1,0 +1,9 @@
+
+dialect  "mvel"
+
+rule "test"
+    when
+
+    then
+    System.out.println("ok");
+end
